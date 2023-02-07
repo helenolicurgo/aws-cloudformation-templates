@@ -4,7 +4,7 @@ Repository for my public AWS CloudFormation Templates.
 Only personal and study templates.
 Always under construction.
 
-JSON is the main format (it's verbose, I know, but it's much more clear for me to read)
+JSON is the main format, but I'm moving to YAML format.
 
 List of the templates:
 
